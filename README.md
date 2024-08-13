@@ -1,0 +1,1 @@
+Directory to store configuration properties for microservices of the app "e-commerce-platform".
