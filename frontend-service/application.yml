@@ -48,6 +48,7 @@ spring:
       order-delete: order.delete.queue
 
   kafka:
+    bootstrap-servers: kafka:9092
     notifications-topic: "notifications-topic"
 
 keycloak:
