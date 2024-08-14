@@ -64,7 +64,7 @@ user-service:
   url: http://api-gateway:8765/user-service/api/v1/users
 
 product-service:
-  enabled: false
+  enabled: true
   name: product-service
   url: http://api-gateway:8765/product-service/api/v1/products
 
