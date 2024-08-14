@@ -73,7 +73,7 @@ order-service:
   graphql-url: http://api-gateway:8765/order-service/graphql
 
 review-service:
-  enabled: false
+  enabled: true
   grpc:
     host: review-service
     port: 9090
